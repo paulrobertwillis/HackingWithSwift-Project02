@@ -1,7 +1,7 @@
 # HackingWithSwift-Project02
 <b>Guess the Flag</b>
 
-<p>Swift + SwiftUI Features Explored:<p>
+<p>Swift + UIKit Features Explored:<p>
 <ul>
   <li>@2X, @3X</li>
   <li>Asset Catalogues</li>
